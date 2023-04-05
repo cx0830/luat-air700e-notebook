@@ -7,7 +7,7 @@ _G.sysplus = require("sysplus")
 local mqtt_host = "bemfa.com"
 local mqtt_port = 9501
 local mqtt_isssl = false
-local client_id = "9bcee0de11d893a64c895387146f1929"
+local client_id = "###########"
 local pub_topic = "mqtt/set"
 local sub_topic = "mqtt"
 
